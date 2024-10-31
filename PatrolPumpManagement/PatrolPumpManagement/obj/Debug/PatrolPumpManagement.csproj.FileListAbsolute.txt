@@ -1,0 +1,27 @@
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\bin\Debug\PatrolPumpManagement.exe.config
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\bin\Debug\PatrolPumpManagement.exe
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\bin\Debug\PatrolPumpManagement.pdb
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.Login.resources
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.Properties.Resources.resources
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.exe
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.pdb
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.MenuForm.resources
+C:\Users\ASUS\source\repos\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.FormAdmin.resources
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\bin\Debug\PatrolPumpManagement.exe.config
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\bin\Debug\PatrolPumpManagement.exe
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\bin\Debug\PatrolPumpManagement.pdb
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.csproj.AssemblyReference.cache
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.Login.resources
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.Properties.Resources.resources
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.csproj.GenerateResource.cache
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.csproj.CoreCompileInputs.cache
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.exe
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.pdb
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.FormSmAdd.resources
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.FormProductAdd.resources
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.FormManager.resources
+E:\AIUB\Semester 5\OOP2\Project\PatrolPumpManagement\PatrolPumpManagement\obj\Debug\PatrolPumpManagement.FormSalesman.resources
