@@ -5,7 +5,6 @@
   A desktop app that lets a petrol pump manager run stock and staff, and lets salesmen sell fuel at a simple sales counter.<br>
   My project for the <b>Object Oriented Programming 2</b> course.
 </p>
----
 
 ##  About this project
 
