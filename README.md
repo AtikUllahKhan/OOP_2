@@ -7,7 +7,7 @@
 </p>
 ---
 
-## 👋 About this project
+##  About this project
 
 This is a project from my **Object Oriented Programming 2** course. We were asked to build a real application using OOP ideas, and I chose a **petrol pump station** because it has a clear, everyday workflow with different kinds of users: someone in charge who manages stock and staff, and people at the counter who sell.
 
