@@ -1,22 +1,10 @@
-# OOP_2
-Here is my Object oriented programing 2 project using C#
-<h1 align="center">⛽ ARA Petrol Pump Management System</h1>
+
+<h1 align="center">ARA Petrol Pump Management System</h1>
 
 <p align="center">
   A desktop app that lets a petrol pump manager run stock and staff, and lets salesmen sell fuel at a simple sales counter.<br>
   My project for the <b>Object Oriented Programming 2</b> course.
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-WinForms-512BD4?logo=csharp&logoColor=white" alt="C# WinForms">
-  <img src="https://img.shields.io/badge/.NET%20Framework-4.7.2-5C2D91" alt=".NET Framework 4.7.2">
-  <img src="https://img.shields.io/badge/SQL%20Server-Express-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-</p>
-
-<p align="center">
-  <img src="screenshots/01-login.png" width="720" alt="Login screen">
-</p>
-
 ---
 
 ## 👋 About this project
